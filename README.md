@@ -3,6 +3,10 @@
 This app was built using react with a minimalistic functionality: You can search the name of a city, and see the weather statistics.
 The background image will adapt to the specific temperature.
 
+# Demo
+
+![alt text](https://github.com/costingh/weather-app-react/blob/master/src/demo-image.png?raw=true)
+
 ### Getting Started
 
 #### Installing
