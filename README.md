@@ -1,3 +1,19 @@
+# Weather App
+
+This app was built using react with a minimalistic functionality: You can search the name of a city, and see the weather statistics.
+The background image will adapt to the specific temperature.
+
+### Getting Started
+
+#### Installing
+
+* **Run this command** git clone https://github.com/costingh/weather-app-react.git
+
+#### Executing program
+
+* Run npm install
+* Run npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
