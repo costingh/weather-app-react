@@ -1,6 +1,6 @@
 # Weather App
 
-This app was built using react with a minimalistic functionality: You can search the name of a city, and see the weather statistics.
+This app was built using react with a minimalistic functionality: You can search the name of a city, and see the weather statistics for the current day.
 The background image will adapt to the specific temperature.
 
 # Demo
